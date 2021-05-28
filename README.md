@@ -26,6 +26,12 @@ httpp://pornwebsite.websitecom/pic.jpg
 
 httpp://pornwebsite.websitecom/pic.jpg
 
+httpp://pornwebsite.websitecom/pic.jpeg
+
+httpp://pornwebsite.websitecom/pic.png
+
+**[It accepts jpg,jpeg,png as I can remember]**
+
 ## Regex
 The Regex Filter are used to filter Image Host URLS (Learn Regex).
 
